@@ -1,0 +1,37 @@
+body {
+    background-color:hsl(317, 5%, 75%);
+}
+h1 { 
+    font-family: Georgia,sans serif;
+    text-shadow: 2px 2px 4px rgb(213, 195, 236);
+    color:rgb(171, 30, 236);
+    font: size 30px;}
+.img{
+    float:left;
+}
+.testo{
+    text-align:center
+    ;
+}
+span { 
+    color:rgb(171, 9, 247);
+}
+h2{
+    color: rgb(231, 59, 208);
+    text-shadow: 2px 2px 4px rgb(238, 159, 234);
+    text-decoration:underline;
+}
+table {
+    color:black;
+    text-align: center;
+}
+tr { color:rgb(124, 43, 199);
+}
+th {color:rgb(238, 9, 207); 
+    text-shadow: 2px 2px 4px rgb(238, 159, 234);
+}
+footer {
+    text-align:center;
+    line-height:75px; 
+}
+
